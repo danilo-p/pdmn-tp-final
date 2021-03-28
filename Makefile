@@ -33,3 +33,7 @@ q1:
 q2:
 	make file=2.py run_local
 	make path=output/local_tp_final_2_top_100_tracks_with_name_df.csv concat_parts
+
+q4:
+	make file=4.py run_local
+	make path=output/local_tp_final_4_top_100_heavy_users_df.csv concat_parts
