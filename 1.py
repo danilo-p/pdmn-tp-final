@@ -13,14 +13,10 @@ spark = SparkSession\
 # Read data (Cluster)
 # profiles_df = spark.read.option("header", True).option("delimiter", "\t").csv(
 #     "hdfs://compute1:9000/datasets/last_fm/userid-profile.tsv")
-# tracks_df = spark.read.option("delimiter", "\t").csv(
-#     "hdfs://compute1:9000/datasets/last_fm/userid-timestamp-artid-artname-traid-traname.tsv")
 
 # Read data (Local)
 profiles_df = spark.read.option("header", True).option(
     "delimiter", "\t").csv("./last_fm/userid-profile.tsv")
-tracks_df = spark.read.option("header", True).csv(
-    "./last_fm/userid-timestamp-artid-artname-traid-traname-sample.csv")
 
 profiles_age_to_count = profiles_df.groupBy("age")\
     .count()\
