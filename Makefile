@@ -24,3 +24,8 @@ hdfs_get:
 
 concat_parts:
 	cd $(path) && cat part* > all.csv && cd ..
+
+q1:
+	make file=1.py run_local
+	make path=output/local_tp_final_1_histogram.csv concat_parts
+	python 1-plot.py
