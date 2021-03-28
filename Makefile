@@ -37,3 +37,11 @@ q2:
 q4:
 	make file=4.py run_local
 	make path=output/local_tp_final_4_top_100_heavy_users_df.csv concat_parts
+
+q5:
+	rm -rf output/local_tp_final_5_plays_by_country_rdd.csv
+	make file=5.py run_local
+	make path=output/local_tp_final_5_plays_by_country_rdd.csv concat_parts
+
+countries_codes_and_coordinates:
+	wget -P output https://gist.githubusercontent.com/tadast/8827699/raw/f5cac3d42d16b78348610fc4ec301e9234f82821/countries_codes_and_coordinates.csv

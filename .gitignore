@@ -1,3 +1,4 @@
 .vscode
 output
 last_fm
+__pycache__/
