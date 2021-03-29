@@ -1,0 +1,247 @@
+                                         window  \
+6    (2005-03-24 00:00:00, 2005-03-31 00:00:00)   
+8    (2005-04-07 00:00:00, 2005-04-14 00:00:00)   
+10   (2005-04-21 00:00:00, 2005-04-28 00:00:00)   
+13   (2005-05-12 00:00:00, 2005-05-19 00:00:00)   
+22   (2005-06-09 00:00:00, 2005-06-16 00:00:00)   
+24   (2005-06-23 00:00:00, 2005-06-30 00:00:00)   
+30   (2005-08-04 00:00:00, 2005-08-11 00:00:00)   
+33   (2005-08-25 00:00:00, 2005-09-01 00:00:00)   
+36   (2005-09-15 00:00:00, 2005-09-22 00:00:00)   
+40   (2005-10-13 00:00:00, 2005-10-20 00:00:00)   
+43   (2005-10-27 00:00:00, 2005-11-03 00:00:00)   
+48   (2005-12-01 00:00:00, 2005-12-08 00:00:00)   
+52   (2005-12-29 00:00:00, 2006-01-05 00:00:00)   
+53   (2006-01-05 00:00:00, 2006-01-12 00:00:00)   
+62   (2006-03-09 00:00:00, 2006-03-16 00:00:00)   
+66   (2006-04-06 00:00:00, 2006-04-13 00:00:00)   
+71   (2006-05-11 00:00:00, 2006-05-18 00:00:00)   
+72   (2006-05-18 00:00:00, 2006-05-25 00:00:00)   
+74   (2006-06-01 00:00:00, 2006-06-08 00:00:00)   
+78   (2006-06-29 00:00:00, 2006-07-06 00:00:00)   
+81   (2006-07-20 00:00:00, 2006-07-27 00:00:00)   
+85   (2006-08-17 00:00:00, 2006-08-24 00:00:00)   
+87   (2006-08-31 00:00:00, 2006-09-07 00:00:00)   
+90   (2006-09-21 00:00:00, 2006-09-28 00:00:00)   
+91   (2006-09-28 00:00:00, 2006-10-05 00:00:00)   
+95   (2006-10-19 00:00:00, 2006-10-26 00:00:00)   
+98   (2006-11-09 00:00:00, 2006-11-16 00:00:00)   
+106  (2007-01-04 00:00:00, 2007-01-11 00:00:00)   
+112  (2007-02-08 00:00:00, 2007-02-15 00:00:00)   
+120  (2007-04-05 00:00:00, 2007-04-12 00:00:00)   
+121  (2007-04-12 00:00:00, 2007-04-19 00:00:00)   
+123  (2007-04-26 00:00:00, 2007-05-03 00:00:00)   
+124  (2007-05-03 00:00:00, 2007-05-10 00:00:00)   
+129  (2007-06-07 00:00:00, 2007-06-14 00:00:00)   
+133  (2007-07-05 00:00:00, 2007-07-12 00:00:00)   
+138  (2007-08-09 00:00:00, 2007-08-16 00:00:00)   
+140  (2007-08-23 00:00:00, 2007-08-30 00:00:00)   
+141  (2007-08-30 00:00:00, 2007-09-06 00:00:00)   
+147  (2007-10-11 00:00:00, 2007-10-18 00:00:00)   
+151  (2007-11-08 00:00:00, 2007-11-15 00:00:00)   
+153  (2007-11-22 00:00:00, 2007-11-29 00:00:00)   
+157  (2007-12-20 00:00:00, 2007-12-27 00:00:00)   
+162  (2008-01-24 00:00:00, 2008-01-31 00:00:00)   
+167  (2008-02-28 00:00:00, 2008-03-06 00:00:00)   
+169  (2008-03-13 00:00:00, 2008-03-20 00:00:00)   
+173  (2008-04-10 00:00:00, 2008-04-17 00:00:00)   
+175  (2008-04-24 00:00:00, 2008-05-01 00:00:00)   
+177  (2008-05-08 00:00:00, 2008-05-15 00:00:00)   
+179  (2008-05-22 00:00:00, 2008-05-29 00:00:00)   
+186  (2008-07-10 00:00:00, 2008-07-17 00:00:00)   
+191  (2008-08-14 00:00:00, 2008-08-21 00:00:00)   
+193  (2008-08-28 00:00:00, 2008-09-04 00:00:00)   
+197  (2008-09-25 00:00:00, 2008-10-02 00:00:00)   
+199  (2008-10-09 00:00:00, 2008-10-16 00:00:00)   
+203  (2008-11-06 00:00:00, 2008-11-13 00:00:00)   
+206  (2008-11-27 00:00:00, 2008-12-04 00:00:00)   
+210  (2008-12-25 00:00:00, 2009-01-01 00:00:00)   
+220  (2009-02-26 00:00:00, 2009-03-05 00:00:00)   
+223  (2009-03-19 00:00:00, 2009-03-26 00:00:00)   
+227  (2009-04-09 00:00:00, 2009-04-16 00:00:00)   
+
+                                    track  count  \
+6    f283aa87-23cb-40e9-9219-ce49be8c6fdc  34      
+8    42ce868a-e42b-4e13-992a-05f2c5ebb84b  50      
+10   cc1df47a-b272-4cb5-8f2d-80d1313cb993  143     
+13   15865a8a-64e6-4820-b3ce-53394c0ba374  100     
+22   e9175559-babe-4554-9451-c2f8187f2573  82      
+24   2d7d6714-8b41-4894-af3a-1cf0a092a7ee  89      
+30   235efc48-16f8-4b48-8688-bf88010c1a32  152     
+33   64581a21-566d-4b24-99ae-c5f48b75e660  901     
+36   91951530-d978-4648-95b1-08b1f49ffba5  465     
+40   c744f420-d7a2-4402-bec2-e9e0d8b860e3  217     
+43   503996d6-020b-40a4-8f8b-58ebb1f53572  125     
+48   45c773c3-c8f0-41a1-b5a5-c241a3baebfa  185     
+52   4e948c39-18f1-452f-9219-ca3b5537befe  325     
+53   60f0bfa4-8da9-4840-b5fe-23c1fc470f34  569     
+62   7ee10fcf-4481-4080-86cd-6056c1341657  142     
+66   2948778c-8165-424f-8deb-dbbf89dab6ab  225     
+71   35b6bd7b-d86d-492e-8112-d6517ff23f50  205     
+72   eaf9ca13-1737-42f4-943b-5e2e9c173158  338     
+74   b71b4cff-1987-477d-807a-3583956a99d3  284     
+78   b3e6f4c5-e62f-4b55-afe2-ec583d48b8dd  229     
+81   1a4bd17f-2c0b-4974-a1e9-af8c36afe38e  209     
+85   90a152e0-b4f2-44f3-a98d-25d83600eb08  139     
+87   a9e87d50-7e00-49f0-99f9-c041129adbfe  89      
+90   334afcdc-b98f-4800-830c-71257c2ca4c4  118     
+91   be24bdfe-11d1-4e6d-84e9-b29888f7e520  193     
+95   933254bb-1ba9-4808-9995-df75c6c4f823  231     
+98   60bd9d53-01ff-4562-8058-eb44b3940317  446     
+106  265c689f-6d1a-4496-9a42-da4cc0430343  330     
+112  3b052af2-7de7-4df0-af7f-93abceba2017  446     
+120  55956d3e-c5d4-4332-a377-bf77c463656e  206     
+121  6d12d96d-8ded-4337-bab2-eeba0722e1d6  388     
+123  84d5c8dc-7c4e-40aa-b1b7-370d411cdb06  174     
+124  db4c9220-df76-4b42-b6f5-8bf52cc80f77  529     
+129  3a3628a0-62cd-4a5f-8c42-2f7540380035  250     
+133  6d0cdee2-77d5-4798-a1a0-cda0389c3ce0  285     
+138  22e507a2-2201-4427-b792-59b5ae1d65d2  326     
+140  5df4d3e4-ef04-4126-9e05-e3309f08131f  155     
+141  bd782340-6fa5-4b52-aa5a-ceafb9bc0340  370     
+147  72c6b4d3-71a8-4c70-bf50-da11c0149089  276     
+151  a8a787df-be48-4917-945e-9ac93922cd86  158     
+153  e029368a-2776-4649-8110-7a5dc59232d6  260     
+157  c2b125a5-a601-4085-b6f4-b958d25aac29  228     
+162  02e64475-a5c0-4e42-9153-13949a252273  236     
+167  4ac8f465-a2f2-4e95-be3f-b92cf51df658  171     
+169  4dd43868-8947-4228-9dd9-fa99bbbd49e9  231     
+173  4ac8f465-a2f2-4e95-be3f-b92cf51df658  230     
+175  3fed8ca5-a81b-407d-b52c-ad43d08b2c8d  190     
+177  81eb9d74-de3e-4ac0-89c5-67ed360582bf  325     
+179  c7422f73-8e94-4dde-baf0-5af86be7de70  217     
+186  9eaa0926-93e4-4a82-a19e-ed8cb3f1ddbe  251     
+191  e01a3d76-3814-432f-b17e-402c1a2ee307  256     
+193  9882d058-f85a-465e-adf2-4957bf772ba8  191     
+197  5a536521-64ae-4a57-8afa-2a4235bc8841  538     
+199  5a536521-64ae-4a57-8afa-2a4235bc8841  340     
+203  8c28a9b1-e36e-4950-9cab-13fb7ff3c300  368     
+206  3dc07f41-89fb-41d6-8257-d156920eedc6  216     
+210  3dc07f41-89fb-41d6-8257-d156920eedc6  231     
+220  b024959d-de7c-44de-a0f2-e6592e2c1fa4  469     
+223  cc086205-4e55-4740-a2ce-238d4353b2be  272     
+227  c71786ed-6b2e-42a1-9be4-bbb039176b1f  354     
+
+                                               track_name  \
+6    Gold Mine Gutted                                       
+8    Lonely No More                                         
+10   Famous Blue Raincoat                                   
+13   Better Alone                                           
+22   Buddy Holly                                            
+24   Seventeen Years                                        
+30   Let Me Go                                              
+33   Staring At The Sun                                     
+36   Anthems For A Seventeen Year Old Girl                  
+40   My Angel Rocks Back And Forth                          
+43   Cherry                                                 
+48   St. Ides Heaven                                        
+52   Sinner                                                 
+53   Jolene                                                 
+62   Blue Light                                             
+66   Shoukyo To Sakujyo                                     
+71   Glass Ceiling                                          
+72   Mushi                                                  
+74   100% Jesus                                             
+78   Milk                                                   
+81   Harrowdown Hill                                        
+85   Road                                                   
+87   Time To Pray                                           
+90   Tennessee Train Tracks                                 
+91   Obstacle 2                                             
+95   White Daisy Passing                                    
+98   Everything In Its Right Place                          
+106  Beelzeboss (The Final Showdown)                        
+112  Distortion Sleep                                       
+120  Beast Of Burden                                        
+121  Beautiful Day                                          
+123  Script Language                                        
+124  Heartbeats                                             
+129  Je T'Aime...Moi Non Plus                               
+133  Als M'N Hoofd M'N Hart Vertrouwt                       
+138  Summer Wine                                            
+140  Augustine                                              
+141  Gimme More                                             
+147  All I Need                                             
+151  Granite                                                
+153  Love, Sweat And Beer                                   
+157  Emergency 72                                           
+162  Born Slippy                                            
+167  If I Don'T Live Today, Then I Might Be Here Tomorrow   
+169  Foundations                                            
+173  If I Don'T Live Today, Then I Might Be Here Tomorrow   
+175  Colorblind                                             
+177  If I Never See Your Face Again (Feat. Rihanna)         
+179  Aqueous Transmission                                   
+186  Non-Stop Party Now                                     
+191  Suru (Original Mix)                                    
+193  Fly On The Wall                                        
+197  Womanizer                                              
+199  Womanizer                                              
+203  Kill The Lights                                        
+206  Invaders Must Die                                      
+210  Invaders Must Die                                      
+220  Fight With Shattered Mirrors                           
+223  Welcome To Heartbreak (Feat. Kid Cudi)                 
+227  Omen                                                   
+
+                      artist_name  
+6    Bright Eyes                   
+8    Rob Thomas                    
+10   Leonard Cohen                 
+13   Melanie C                     
+22   Weezer                        
+24   Ratatat                       
+30   Cake                          
+33   Tv On The Radio               
+36   Broken Social Scene           
+40   Four Tet                      
+43   Ratatat                       
+48   Elliott Smith                 
+52   Deathgaze                     
+53   Cake                          
+62   Bloc Party                    
+66   雅-Miyavi-                     
+71   Metric                        
+72   Dir En Grey                   
+74   Daniella'S Daze               
+78   Kings Of Leon                 
+81   Thom Yorke                    
+85   Nick Drake                    
+87   Andrea                        
+90   Rocky Votolato                
+91   Interpol                      
+95   Rocky Votolato                
+98   Radiohead                     
+106  Tenacious D                   
+112  Soilwork                      
+120  The Rolling Stones            
+121  Mellowdrone                   
+123  Humanwine                     
+124  The Knife                     
+129  Serge Gainsbourg              
+133  Marco Borsato                 
+138  Ville Valo & Nathalia Avelon  
+140  Patrick Wolf                  
+141  Britney Spears                
+147  Radiohead                     
+151  Pendulum                      
+153  Hadouken!                     
+157  Turin Brakes                  
+162  Barefoot                      
+167  Mando Diao                    
+169  Kate Nash                     
+173  Mando Diao                    
+175  Counting Crows                
+177  Maroon 5                      
+179  Incubus                       
+186  Girl Talk                     
+191  Super8 & Tab                  
+193  Miley Cyrus                   
+197  Britney Spears                
+199  Britney Spears                
+203  Britney Spears                
+206  The Prodigy                   
+210  The Prodigy                   
+220  Zeigeist                      
+223  Kanye West                    
+227  The Prodigy                   
