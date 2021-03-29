@@ -2,3 +2,4 @@
 output
 last_fm
 __pycache__/
+.DS_Store

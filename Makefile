@@ -48,5 +48,9 @@ q6:
 	make file=6.py run_local
 	make path=output/local_tp_final_6_plays_by_country_rdd.csv concat_parts
 
+collab_filtering:
+	make file=collab_filtering.py run_local
+	make path=output/local_tp_final_collab_filtering_user_recommendations_with_info_df.csv concat_parts
+
 countries_codes_and_coordinates:
 	wget -P output https://gist.githubusercontent.com/tadast/8827699/raw/f5cac3d42d16b78348610fc4ec301e9234f82821/countries_codes_and_coordinates.csv
