@@ -39,9 +39,14 @@ q4:
 	make path=output/local_tp_final_4_top_100_heavy_users_df.csv concat_parts
 
 q5:
-	rm -rf output/local_tp_final_5_plays_by_country_rdd.csv
+	rm -rf output/local_tp_final_5_user_play_counts_rdd.csv
 	make file=5.py run_local
-	make path=output/local_tp_final_5_plays_by_country_rdd.csv concat_parts
+	make path=output/local_tp_final_5_user_play_counts_rdd.csv concat_parts
+
+q6:
+	rm -rf output/local_tp_final_6_plays_by_country_rdd.csv
+	make file=6.py run_local
+	make path=output/local_tp_final_6_plays_by_country_rdd.csv concat_parts
 
 countries_codes_and_coordinates:
 	wget -P output https://gist.githubusercontent.com/tadast/8827699/raw/f5cac3d42d16b78348610fc4ec301e9234f82821/countries_codes_and_coordinates.csv
